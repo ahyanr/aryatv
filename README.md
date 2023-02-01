@@ -8,6 +8,14 @@ https://raw.githubusercontent.com/ahyanr/aryatv/51cc15715e5763eae6870ab4b3465bcb
 
 Kemudian paste ke dalam kolom URL di aplikasi IPTV player seperti Perfect Player (Android dan Android TV) maupun di aplikasi sejenisnya di Windows, Mac OS dan Linux.
 
+Mohon dicatat bahwa, daftar IPTV akan saya update sewaktu-waktu. Jika channel IPTV tidak berubah silahkan update manual permanen link file aryatv.m3u dengan cara (butuh Laptop atau Komputer):
+
+1. Klik file aryatv.m3u
+2. Tekan tombol 'y' pada keyboard
+3. Klik tombol Raw
+4. Kemudian copy url
+5. Lalu pastekan ke url aplikasi
+
 Perfect Player (Android)
 
 ![Screenshot 2023-02-01 110622](https://user-images.githubusercontent.com/17157416/215943009-cd5c60ee-a274-451c-831e-046b947b2177.png)
