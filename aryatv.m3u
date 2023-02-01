@@ -620,11 +620,20 @@ https://moon-100ge-streaming-server.filemoon.to/hls2/01/02743/b1lq70zfn81c_x/ind
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/evil-eye-mal-de-ojo.154-251694.jpg" group-title="FILM", Evil Eye (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02891/ts938de8cc5b_h/index-v1-a1.m3u8?t=sKu7Tkf3LFM6GHYw-YMFSZ102bsqZK5Kcm-gMKVS_a4&s=1675260631&e=43200&f=14458439&srv=moon-storage-delivery-s42&asn=135478&sp=3000
 
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/finch.154-225354.jpg" group-title="FILM", Finch (2021)
+https://moon-storage-delivery-s85.filemoon.to/hls2/01/02782/n6g7xhfdb56y_h/index-v1-a1.m3u8?t=Nb5u_mSncn8oPNWMn7n1tQtraagCR_IhZoJ444lFfdI&s=1675279068&e=43200&f=13914402&srv=127.0.0.1&asn=135478&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/firestarter-2022.154-237562.jpg" group-title="FILM", Firestarter (2022)
+https://moon-storage-delivery-s38.filemoon.to/hls2/01/02743/h06vype1ycxb_h/index-v1-a1.m3u8?t=kcEfdyiIX6IKDXr-Mjnnt_-pzRsYhtLKmJHmOozKOFo&s=1675278885&e=43200&f=13716782&srv=127.0.0.1&asn=135478&sp=3000
+
 #EXTINF:-1 tvg-logo=https://i.jeded.com/i/the-menu.154-250829.jpg" group-title="FILM", The Menu (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02750/lfpt42aaih0i_h/index-v1-a1.m3u8?t=WA4Y0t33AZmdDfEq7XeRGVJjRkgH6xxO8OcgNo3ZCtA&s=1675260515&e=43200&f=13752231&srv=moon-storage-delivery-s59&asn=135478&sp=3000
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/troll.154-249958.jpg" group-title="FILM", Troll (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02712/r80j96vbykes_x/index-v1-a1.m3u8?t=cofQMX8XoB-5yGY8Su2CeJJQCWZrS5h9BPPWMTHGIH8&s=1675261047&e=43200&f=13560923&srv=moon-storage-delivery-s35&asn=135478&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/jurassic-world-dominion.154-237077.jpg" group-title="FILM", Jurassic World Dominion (2022)
+https://moon-100ge-streaming-server.filemoon.to/hls2/01/02718/kpivabnkx3k0_x/index-v1-a1.m3u8?t=QIyABFP7ATfR_Af9e9oTvpk92QvJov4coHOYHHBrh1k&s=1675278771&e=43200&f=13594961&srv=moon-storage-delivery-s78&asn=135478&sp=3000
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/junge.154-252904.jpg" group-title="FILM", Jung_E (2023)
 https://cdn009.sh-content.com/hls2/01/00029/aq7w8ag3slre_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=F975-uiil8ZoiJmSjC-hscvAt4gjuGQd2lNvZDhu8w8&s=1675264158&e=43200&f=146009&srv=sto011&i=0.0&sp=500&p1=sto011&p2=sto011
@@ -640,6 +649,12 @@ https://cdn009.sh-content.com/hls2/01/00021/zqxvtg2fy6e3_,n,h,.urlset/index-f2-v
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-invitation-2022.154-244701.jpg" group-title="FILM", The Invitation (2022)
 https://moon-storage-delivery-s50.filemoon.to/hls2/01/02715/5bbl42ps8imt_x/index-v1-a1.m3u8?t=4t6aLljFmqJouROHJZ7xWc7RKTZbhD39P9f8P4ba6Bs&s=1675263069&e=43200&f=13579372&srv=127.0.0.1&asn=135478&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-witch-part-1-the-subversion.154-155240.jpg" group-title="FILM", The Witch: Part 1. The Subversion
+https://moon-100ge-streaming-server.filemoon.to/hls2/01/02748/zip8iow9aspd_h/index-v1-a1.m3u8?t=G4q-AzC5D6aKil86tPT72gVPe3CsIp8Cu2yeLdf7U5s&s=1675278431&e=43200&f=13742825&srv=moon-storage-delivery-s56&asn=135478&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-witch-part-2-the-other-one-manyeo-2-2.154-241589.jpg" group-title="FILM", The Witch: Part 2. The Other One
+https://moon-100ge-streaming-server.filemoon.to/hls2/01/02719/uj8pgixxg7hk_h/index-v1-a1.m3u8?t=Ly02z-QpQWFKoIBv_fy4rGh2fEjhJ9QI-8DUD9s5cns&s=1675278255&e=43200&f=13599310&srv=moon-storage-delivery-s64&asn=135478&sp=3000
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-woman-king.154-245784.jpg" group-title="FILM", The Woman King (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02712/3kpkp403hv2e_h/index-v1-a1.m3u8?t=qsaEYWBLNfmZmUuewUbJr7RC1HNqKkDvaGYL0_dbSdE&s=1675261338&e=43200&f=13853668&srv=moon-storage-delivery-s53&asn=135478&sp=3000
