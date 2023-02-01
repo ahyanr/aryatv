@@ -608,7 +608,16 @@ https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro2.mp3
 -----------------
 FILM
 -----------------
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-menu.154-250829.jpg" group-title="FILM", Evil Eye (2022)
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/all-quiet-on-the-western-front-im-westen-nichts-neues.154-247990.jpg" group-title="FILM", All Quiet on the Western Front (2022)
+https://cdn014.sh-content.com/hls2/01/00021/hqrrry6su40q_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=YY7F0k_aHDXqga5cgEa-quTG8o1FmpaI-aC-4kZTLv8&s=1675264408&e=43200&f=109351&srv=sto002&i=0.0&sp=500&p1=sto002&p2=sto002
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/black-panther-wakanda-forever.154-249104.jpg" group-title="FILM", Black Panther: Wakanda Forever (2022)
+https://moon-100ge-streaming-server.filemoon.to/hls2/01/02906/viekxwcfpi0x_h/index-v1-a1.m3u8?t=TlQ1nZfPnFePs6d8K-YJAuP6EhNk5BIHG3wD-wDDQCY&s=1675260037&e=43200&f=14534940&srv=moon-storage-delivery-s52&asn=135478&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/everything-everywhere-all-at-once.154-235138.jpg" group-title="FILM", Everything Everywhere All at Once (2022)
+https://moon-100ge-streaming-server.filemoon.to/hls2/01/02743/b1lq70zfn81c_x/index-v1-a1.m3u8?t=91YSVgzJmUJPnqsGC6X0KgkN-N9Ev5g2uTvl2kN2Wac&s=1675263559&e=43200&f=13718730&srv=moon-storage-delivery-s53&asn=135478&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/evil-eye-mal-de-ojo.154-251694.jpg" group-title="FILM", Evil Eye (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02891/ts938de8cc5b_h/index-v1-a1.m3u8?t=sKu7Tkf3LFM6GHYw-YMFSZ102bsqZK5Kcm-gMKVS_a4&s=1675260631&e=43200&f=14458439&srv=moon-storage-delivery-s42&asn=135478&sp=3000
 
 #EXTINF:-1 tvg-logo=https://i.jeded.com/i/the-menu.154-250829.jpg" group-title="FILM", The Menu (2022)
@@ -617,17 +626,24 @@ https://moon-100ge-streaming-server.filemoon.to/hls2/01/02750/lfpt42aaih0i_h/ind
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/troll.154-249958.jpg" group-title="FILM", Troll (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02712/r80j96vbykes_x/index-v1-a1.m3u8?t=cofQMX8XoB-5yGY8Su2CeJJQCWZrS5h9BPPWMTHGIH8&s=1675261047&e=43200&f=13560923&srv=moon-storage-delivery-s35&asn=135478&sp=3000
 
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/black-panther-wakanda-forever.154-249104.jpg" group-title="FILM", Black Panther: Wakanda Forever (2022)
-https://moon-100ge-streaming-server.filemoon.to/hls2/01/02906/viekxwcfpi0x_h/index-v1-a1.m3u8?t=TlQ1nZfPnFePs6d8K-YJAuP6EhNk5BIHG3wD-wDDQCY&s=1675260037&e=43200&f=14534940&srv=moon-storage-delivery-s52&asn=135478&sp=3000
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/junge.154-252904.jpg" group-title="FILM", Jung_E (2023)
+https://cdn009.sh-content.com/hls2/01/00029/aq7w8ag3slre_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=F975-uiil8ZoiJmSjC-hscvAt4gjuGQd2lNvZDhu8w8&s=1675264158&e=43200&f=146009&srv=sto011&i=0.0&sp=500&p1=sto011&p2=sto011
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/legions.154-253405.jpg" group-title="FILM", Legions (2023)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02897/q90gp214598s_h/index-v1-a1.m3u8?t=rQISlQgOUdUXSNELQ0Fib-_ON8Hb9mpxMCXfrjPSnbU&s=1675260741&e=43200&f=14485462&srv=moon-storage-delivery-s45&asn=135478&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/shang-chi-and-the-legend-of-the-ten-rings.154-225699.jpg" group-title="FILM", Shang-Chi and the Legend of the Ten Rings (2021)
+https://moon-100ge-streaming-server.filemoon.to/hls2/01/02746/molnvclzsa9s_h/index-v1-a1.m3u8?t=ZFmBn5xkNPkMu7wuQFpaKQRHaptk4-yJEozCOTDGFns&s=1675263246&e=43200&f=14442603&srv=moon-storage-delivery-s67&asn=135478&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/talbis-iblis-the-devils-deception.154-252211.jpg" group-title="FILM", Talbis Iblis (2022)
+https://cdn009.sh-content.com/hls2/01/00021/zqxvtg2fy6e3_,n,h,.urlset/index-f2-v1-a1.m3u8?t=ltmLBuxa7k460H4ay7ai6jzSViRhIkRNNlpLlZwEYAE&s=1675264008&e=43200&f=105270&srv=sto010&i=0.0&sp=500&p1=sto010&p2=sto010
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-invitation-2022.154-244701.jpg" group-title="FILM", The Invitation (2022)
+https://moon-storage-delivery-s50.filemoon.to/hls2/01/02715/5bbl42ps8imt_x/index-v1-a1.m3u8?t=4t6aLljFmqJouROHJZ7xWc7RKTZbhD39P9f8P4ba6Bs&s=1675263069&e=43200&f=13579372&srv=127.0.0.1&asn=135478&sp=3000
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-woman-king.154-245784.jpg" group-title="FILM", The Woman King (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02712/3kpkp403hv2e_h/index-v1-a1.m3u8?t=qsaEYWBLNfmZmUuewUbJr7RC1HNqKkDvaGYL0_dbSdE&s=1675261338&e=43200&f=13853668&srv=moon-storage-delivery-s53&asn=135478&sp=3000
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/violent-night.154-250568.jpg" group-title="FILM", Violent Night (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02716/jlbupx5vyz3x_x/index-v1-a1.m3u8?t=eiyN7K1DLcZu6x3aHpI9yS9udbkNgpoGpZ4T0MKeTpM&s=1675261420&e=43200&f=13580953&srv=moon-storage-delivery-s41&asn=135478&sp=3000
-
-
 
