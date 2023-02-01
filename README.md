@@ -13,7 +13,11 @@ Mohon dicatat bahwa, daftar IPTV akan saya update sewaktu-waktu. Jika channel IP
 1. Klik file aryatv.m3u
 2. Tekan tombol 'y' pada keyboard
 3. Klik tombol Raw
+![Screenshot 2023-02-01 134821](https://user-images.githubusercontent.com/17157416/215972081-3a7f3d54-3d84-48af-8cf3-a14d554cabe9.png)
+
 4. Kemudian copy url
+![Screenshot 2023-02-01 134914](https://user-images.githubusercontent.com/17157416/215972100-0e4d32bc-ef64-4c09-9a92-064b6b9096d4.png)
+
 5. Lalu pastekan ke url aplikasi
 
 Perfect Player (Android)
