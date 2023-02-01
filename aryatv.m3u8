@@ -84,6 +84,9 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", RTV 2
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196457
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", RRI Net
+http://180.250.107.174:1935/voinews/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", SCTV 1
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
@@ -140,6 +143,9 @@ LOKAL
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="LOKAL", ADi TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="LOKAL", I AM CHANNEL
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="LOKAL", Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
@@ -169,6 +175,12 @@ https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="LOKAL", Tegar Tv
 http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1596598636.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="LOKAL", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="LOKAL", TV Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="LOKAL", SMTV
 http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
@@ -210,9 +222,6 @@ FILM & MUSIK
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="FILM & MUSIK", Action Movies
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="FILM & MUSIK", ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="FILM & MUSIK", Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
@@ -428,6 +437,9 @@ ANAK-ANAK
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Aniplus Indonesia
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Aniplus
+http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
+
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Edukasi
 http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 
@@ -559,5 +571,12 @@ http://210.210.155.37/uq2663/h/h91/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INFOTAINMENT", Xing Kong
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+
+
+--------------
+RADIO
+--------------
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="RADIO", RRI Kendari Pro 2 FM
+https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro2.mp3
 
 
