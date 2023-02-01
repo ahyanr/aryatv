@@ -12,9 +12,11 @@ Mohon dicatat bahwa, daftar IPTV akan saya update sewaktu-waktu. Jika channel IP
 
 1. Klik file aryatv.m3u
 2. Tekan tombol 'y' pada keyboard
+
 ![Screenshot 2023-02-01 135229](https://user-images.githubusercontent.com/17157416/215972338-edee14ed-6e55-4240-a4dc-99afd070accf.png)
 
 3. Klik tombol Raw
+
 ![Screenshot 2023-02-01 134821](https://user-images.githubusercontent.com/17157416/215972081-3a7f3d54-3d84-48af-8cf3-a14d554cabe9.png)
 
 4. Kemudian copy url
