@@ -4,7 +4,7 @@ Saya menggunakan aplikasi Perfect Player mod yang premium di Setup Box. Sebagian
 
 Copy link berikut ini :
 
-https://raw.githubusercontent.com/ahyanr/aryatv/51cc15715e5763eae6870ab4b3465bcbffe473cf/aryatv.m3u
+https://raw.githubusercontent.com/ahyanr/aryatv/578e7b9296009c4d10b32d12419835b1edd05ff7/aryatv.m3u
 
 Kemudian paste ke dalam kolom URL di aplikasi IPTV player seperti Perfect Player (Android dan Android TV) maupun di aplikasi sejenisnya di Windows, Mac OS dan Linux.
 
