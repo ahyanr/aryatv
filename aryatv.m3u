@@ -608,6 +608,9 @@ https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro2.mp3
 -----------------
 FILM
 -----------------
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/athena-2022.154-246062.jpg" group-title="FILM", Athena (2022)
+https://cdn003.sh-content.com/hls2/01/00022/upbkxv4haqlk_,n,h,x,.urlset/master.m3u8?t=fjphQg2lD45KRcc7wBY_51qCDk0XzPSIh_EdyOSNxDA&s=1675320483&e=43200&f=110482&srv=sto002&i=0.0&sp=500&p1=sto002&p2=sto002
+
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/all-quiet-on-the-western-front-im-westen-nichts-neues.154-247990.jpg" group-title="FILM", All Quiet on the Western Front (2022)
 https://cdn021.sh-content.com/hls2/01/00021/hqrrry6su40q_,n,h,x,.urlset/master.m3u8?t=46Tm17z2HN5EKEMCKnAqpOLyKxW51lf3rYnn1bxdL5o&s=1675318755&e=43200&f=109351&srv=sto002&i=0.0&sp=500&p1=sto002&p2=sto002
 
@@ -626,11 +629,11 @@ https://moon-storage-delivery-s85.filemoon.to/hls2/01/02782/n6g7xhfdb56y_,n,h,.u
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/firestarter-2022.154-237562.jpg" group-title="FILM", Firestarter (2022)
 https://moon-storage-delivery-s38.filemoon.to/hls2/01/02743/h06vype1ycxb_,n,h,.urlset/master.m3u8?t=pSzEe3i44d_TR1S_jERWAPjgw44UOLki0AZUpIxxxio&s=1675318884&e=43200&f=13716782&srv=127.0.0.1&asn=7713&sp=3000
 
-#EXTINF:-1 tvg-logo=https://i.jeded.com/i/the-menu.154-250829.jpg" group-title="FILM", The Menu (2022)
-https://cdn002.sh-content.com/hls2/01/00021/cc30fjbl2vgi_,n,h,.urlset/master.m3u8?t=z5jAHHlINqEVB732cdszDFyVpapqeJdyFAQBRnsuEso&s=1675318907&e=43200&f=105655&srv=sto006&i=0.0&sp=500&p1=sto006&p2=sto006
+#EXTINF:-1 tvg-logo="https://asianwiki.com/images/7/7b/Hunt_Korean_Movie-p1.jpg" group-title="FILM", Hunt (2022)
+https://cdn021.sh-content.com/hls2/01/00032/9canso9d38k0_,n,h,.urlset/master.m3u8?t=KcyALpjMmAbkW0ZleO5RJ8mets7RqY-2vr9pfKxWG50&s=1675320580&e=43200&f=163238&srv=sto009&i=0.0&sp=500&p1=sto009&p2=sto009
 
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/troll.154-249958.jpg" group-title="FILM", Troll (2022)
-https://cdn012.sh-content.com/hls2/01/00021/9wmq561bqam4_,n,h,x,.urlset/master.m3u8?t=K3d0AAzm3bpvY459DUqYFWW-0I_FxAGszMcS9nOxN74&s=1675318927&e=43200&f=108358&srv=sto012&i=0.0&sp=500&p1=sto012&p2=sto012
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/interceptor.154-238859.jpg" group-title="FILM", Interceptor (2022)
+https://moon-storage-delivery-s44.filemoon.to/hls2/01/02718/nst9lvo4klno_,n,x,.urlset/master.m3u8?t=qWsg3yYi7Ph2rKe_6tIKXTjmUrLOrhjzts7aLjBRJWY&s=1675320196&e=43200&f=13594667&srv=127.0.0.1&asn=7713&sp=3000
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/jurassic-world-dominion.154-237077.jpg" group-title="FILM", Jurassic World Dominion (2022)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02718/kpivabnkx3k0_,n,x,.urlset/master.m3u8?t=zGONUyUbD__E9s2-LRPcuN3IfRZaqlBeCzQE4yrtN68&s=1675318946&e=43200&f=13594961&srv=moon-storage-delivery-s78&asn=7713&sp=3000
@@ -643,6 +646,18 @@ https://cdn001.sh-content.com/hls2/01/00040/w5fh71sho3s6_,n,h,.urlset/master.m3u
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/shang-chi-and-the-legend-of-the-ten-rings.154-225699.jpg" group-title="FILM", Shang-Chi and the Legend of the Ten Rings (2021)
 https://moon-100ge-streaming-server.filemoon.to/hls2/01/02746/molnvclzsa9s_,n,h,.urlset/master.m3u8?t=bWCpkDaqciDQqow3W1TFs44yWdWLJsQADA2L1etREBI&s=1675319455&e=43200&f=14442603&srv=moon-storage-delivery-s67&asn=7713&sp=3000
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/slumberland.154-249225.jpg" group-title="FILM", Slumberland (2022)
+https://cdn004.sh-content.com/hls2/01/00022/y52hzrcnik7l_,n,h,x,.urlset/master.m3u8?t=FzyMag7-VjbHaBIQCCV_kCUuQjBF4odRQsMDbuQotTU&s=1675319984&e=43200&f=114142&srv=sto011&i=0.0&sp=500&p1=sto011&p2=sto011
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/smile-2022.154-247187.jpg" group-title="FILM", Smile (2022)
+https://cdn021.sh-content.com/hls2/01/00025/eywev7izstnz_,n,h,x,.urlset/master.m3u8?t=SPiV265bkwPqd2Xy9daOGt7PdB-MbXf7Jl4rUvW9dZo&s=1675320338&e=43200&f=128334&srv=sto002&i=0.0&sp=500&p1=sto002&p2=sto002
+
+#EXTINF:-1 tvg-logo=https://i.jeded.com/i/the-menu.154-250829.jpg" group-title="FILM", The Menu (2022)
+https://cdn002.sh-content.com/hls2/01/00021/cc30fjbl2vgi_,n,h,.urlset/master.m3u8?t=z5jAHHlINqEVB732cdszDFyVpapqeJdyFAQBRnsuEso&s=1675318907&e=43200&f=105655&srv=sto006&i=0.0&sp=500&p1=sto006&p2=sto006
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/troll.154-249958.jpg" group-title="FILM", Troll (2022)
+https://cdn012.sh-content.com/hls2/01/00021/9wmq561bqam4_,n,h,x,.urlset/master.m3u8?t=K3d0AAzm3bpvY459DUqYFWW-0I_FxAGszMcS9nOxN74&s=1675318927&e=43200&f=108358&srv=sto012&i=0.0&sp=500&p1=sto012&p2=sto012
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/talbis-iblis-the-devils-deception.154-252211.jpg" group-title="FILM", Talbis Iblis (2022)
 https://cdn009.sh-content.com/hls2/01/00021/zqxvtg2fy6e3_,n,h,.urlset/master.m3u8?t=dWwJnlzykhi6k0c8NfA8pBgnX0Gh6HAWdP9DfUrUxEs&s=1675319641&e=43200&f=105270&srv=sto010&i=0.0&sp=500&p1=sto010&p2=sto010
