@@ -3,10 +3,10 @@
 -----------
 INDONESIA
 -----------
-#EXTINF:-1 tvg-logo="https://github.com/ahyanr/aryatv/blob/d94dbf2b568da83665bc37f79e5b1697193d7160/logo/antv.jpg" group-title="INDONESIA", ANTV 1
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", ANTV 1
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/ahyanr/aryatv/blob/d94dbf2b568da83665bc37f79e5b1697193d7160/logo/antv.jpg" group-title="INDONESIA", ANTV 2
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", ANTV 2
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", BTV
