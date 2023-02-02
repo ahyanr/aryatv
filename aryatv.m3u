@@ -448,14 +448,37 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e
 ANAK-ANAK
 -------------------
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Aniplus Indonesia
+
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Afarin TV
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Aniplus Indonesia 1
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Aniplus
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Aniplus Indonesia 2
 http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Edukasi
-http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Aghapy Kids
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Akili Kids!
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7tfayd
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Bumblebee TV Country Boy Kids Video
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Cartoon Network (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Cartoon Network (Unknown)
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157593
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Cocoro
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Disney Jr
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162511
@@ -463,14 +486,26 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162511
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", DMTV
 https://h1.intechmedia.net/intech/ch51.m3u8
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Happy Kids Jr
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Duck TV
+https://mmm-ducktv-4-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", EBS kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Edukasi
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", HappyKids
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Kidoodle TV
-https://bit.ly/3c7D00I
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Cartoon Network
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157593
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Rakuten TV Family
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
@@ -484,10 +519,14 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Nicklodeon
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Zoo Moo HD
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Teletubbies
+https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Toonmax TV
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 
