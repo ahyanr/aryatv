@@ -16,7 +16,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", GTV
-#https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 https://gratis.broiptv.com/play/gratis-2@broiptv.com/53570389/IZr5UvMu/norvegicus/gtv_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", Indosiar
@@ -29,7 +28,6 @@ http://iptvtree.net:8080/nika/ee07c53d/157579
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", MNCTV
-#https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 https://gratis.broiptv.com/play/gratis-2@broiptv.com/53570389/IZr5UvMu/norvegicus/mnctv_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", Metro TV
@@ -39,7 +37,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 http://45.126.83.51/uq2663/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", RCTI
-#http://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 https://gratis.broiptv.com/play/gratis-2@broiptv.com/53570389/IZr5UvMu/norvegicus/rcti_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", RTV
