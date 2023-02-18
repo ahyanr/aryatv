@@ -28,7 +28,7 @@ http://iptvtree.net:8080/nika/ee07c53d/157579
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", MNCTV
-https://gratis.broiptv.com/play/gratis-2@broiptv.com/53570389/IZr5UvMu/norvegicus/mnctv_norvegicus/playlist.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/165054
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
@@ -220,6 +220,9 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/221947
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="FILM & MUSIK", Kix (Text Indonesian Subtitle)
 http://210.210.155.37/dr9445/h/h07/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="FILM & MUSIK", Ktv
+http://iptvtree.net:8080/nika/ee07c53d/174724
+
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="FILM & MUSIK", My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
@@ -274,6 +277,9 @@ http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="DOKUMENTASI", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="DOKUMENTASI", CNA Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="DOKUMENTASI", Crime Ivestigation
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165052
 
@@ -307,8 +313,8 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="DOKUMENTASI", Nat Geo (unknown)
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165094
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="DOKUMENTASI", Nat Geo Wild
-http://iptvtree.net:8080/nika/ee07c53d/174724
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="DOKUMENTASI", Nat Geo Wild Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="DOKUMENTASI", NKH World Japan 1
 http://45.126.83.51/uq2663/h/h23/index2.m3u8
@@ -349,6 +355,9 @@ https://hls.youtb.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INTERNASIONAL", Bahrain International
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INTERNASIONAL", Dubai TV
+http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INTERNASIONAL", Madinah
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
@@ -488,6 +497,9 @@ https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Lego Channel
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Pinkfong Baby Shark
+https://bit.ly/3uRAsun
+
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="ANAK-ANAK", Rakuten TV Family
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -526,6 +538,9 @@ http://154.62.74.29:1935/live/barza/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="OLAHRAGA", beIN Sports 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="OLAHRAGA", beIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="OLAHRAGA", EDGEsport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
@@ -558,6 +573,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="OLAHRAGA", Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="OLAHRAGA", Sony Ten 1
+http://xtv.ooo:8080/6833/6833/167570
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="OLAHRAGA", Sony Ten 2
+http://xtv.ooo:8080/6833/6833/167571
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="OLAHRAGA", Sony Ten 3
+http://xtv.ooo:8080/6833/6833/167572
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="OLAHRAGA", TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
