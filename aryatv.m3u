@@ -16,7 +16,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", GTV
-https://gratis.broiptv.com/play/gratis-2@broiptv.com/53570389/IZr5UvMu/norvegicus/gtv_norvegicus/playlist.m3u8
+https://gratis.broiptv.com/play/gratis-4@broiptv.com/10170147/OhR9cPQW/norvegicus/gtv_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
@@ -34,10 +34,10 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/165054
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", NET TV
-http://45.126.83.51/uq2663/h/h06/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", RCTI
-https://gratis.broiptv.com/play/gratis-2@broiptv.com/53570389/IZr5UvMu/norvegicus/rcti_norvegicus/playlist.m3u8
+https://gratis.broiptv.com/play/gratis-4@broiptv.com/10170147/OhR9cPQW/norvegicus/rcti_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
@@ -703,7 +703,7 @@ http://188.241.218.174:8070/nika/ee07c53d/157579?token=ShUNAEFcElxEWwVWCAtUUgdUB
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", NET TV 
-http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
+http://45.126.83.51/uq2663/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", RTV 2
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196457
