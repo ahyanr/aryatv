@@ -16,7 +16,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", GTV
-https://gratis.broiptv.com/play/gratis-4@broiptv.com/10170147/OhR9cPQW/norvegicus/gtv_norvegicus/playlist.m3u8
+https://tv.okezone.com/streaming/global_tv
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
@@ -28,28 +28,28 @@ http://iptvtree.net:8080/nika/ee07c53d/157579
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", MNCTV
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/165054
+https://tv.okezone.com/streaming/mnc_tv
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", NET TV
-http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
+http://rr.dens.tv/h/h06/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", RCTI
-https://gratis.broiptv.com/play/gratis-4@broiptv.com/10170147/OhR9cPQW/norvegicus/rcti_norvegicus/playlist.m3u8
+https://tv.okezone.com/streaming/rcti
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", SCTV
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", TV One
-https://devds.site/api/youlive.m3u8?v=yNKvkPJl-tg
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
@@ -57,6 +57,74 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="INDONESIA", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
+
+
+-----------------
+SIARAN BACKUP
+-----------------
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", ANTV 1
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", ANTV 2
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", Berita Satu 1
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", Berita Satu 2
+https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", CNN Indonesia 2
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", CNN Indonesia 3
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", iNews 2
+http://188.241.218.174:8070/nika/ee07c53d/157579?token=ShUNAEFcElxEWwVWCAtUUgdUBQlXBABaAgkFWwNXUwIEUVdQAgIFUF4aGEZKTREDAFhpWAUVDwgDBlZVDk5DFkJSFz5bUBJcRAkHVQwIVkRNF0JYDFIXAwcHVFcHVFdWBgVJQ0JdVERcGgZVCQFURE0XU0kVUkdXV108BlIUCABUFV8PR1hcSkRXWjtdXA4HD1EUC0MHFxUUWBASFVgPFl1bSUNQXUQUB0xRRgMbUV5TAhQdQ1RaTFhFERsVWEMtfRVJQ1dMRAMIS10LVxtZRBVGFB1DXkZmRFQQFkUHAA5URUdbEAUSSkRVVRxmWgwID1BVRQhYW0oUC0FQB1JDTxNaCg9bQF8UOUhdABsDQVFQAAITHA==
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", Indosiar 2
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", Metro TV 2
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", NET TV 
+http://45.126.83.51/uq2663/h/h06/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", NET TV
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", RTV 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196457
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", SCTV 2
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TVRI 2
+http://210.210.155.35/session/f035043e-fb13-11eb-bca3-c81f66f89318/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TVRI 3
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TV One 1
+https://devds.site/api/youlive.m3u8?v=yNKvkPJl-tg
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TV One 2
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TV One 3
+http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TRANS 7 (HD) 1
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TRANS 7 (HD) 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162502
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TRANS TV (HD)
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162503
 
 
 
@@ -707,56 +775,3 @@ https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro2.mp3
 
 
 
-
------------------
-SIARAN BACKUP
------------------
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", ANTV 2
-http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", CNN Indonesia 2
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", CNN Indonesia 3
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", iNews 2
-http://188.241.218.174:8070/nika/ee07c53d/157579?token=ShUNAEFcElxEWwVWCAtUUgdUBQlXBABaAgkFWwNXUwIEUVdQAgIFUF4aGEZKTREDAFhpWAUVDwgDBlZVDk5DFkJSFz5bUBJcRAkHVQwIVkRNF0JYDFIXAwcHVFcHVFdWBgVJQ0JdVERcGgZVCQFURE0XU0kVUkdXV108BlIUCABUFV8PR1hcSkRXWjtdXA4HD1EUC0MHFxUUWBASFVgPFl1bSUNQXUQUB0xRRgMbUV5TAhQdQ1RaTFhFERsVWEMtfRVJQ1dMRAMIS10LVxtZRBVGFB1DXkZmRFQQFkUHAA5URUdbEAUSSkRVVRxmWgwID1BVRQhYW0oUC0FQB1JDTxNaCg9bQF8UOUhdABsDQVFQAAITHA==
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", Indosiar 2
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", Metro TV 2
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", NET TV 
-http://45.126.83.51/uq2663/h/h06/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", RTV 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196457
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", SCTV 2
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TVRI 2
-http://210.210.155.35/session/f035043e-fb13-11eb-bca3-c81f66f89318/qwr9ew/s/s11/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TVRI 3
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TV One 2
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TV One 3
-http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TRANS 7 (HD) 1
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TRANS 7 (HD) 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162502
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="SIARAN BACKUP", TRANS TV (HD)
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162503
